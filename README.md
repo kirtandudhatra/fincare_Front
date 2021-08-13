@@ -29,8 +29,8 @@ To monitor the ins and outs over time, one can keep note of daily spending on pa
 Here are some steps which will help you to install and run application in your local machine.
 
 ```
-1. Clone the project using 'git clone https://github.com/kirtandudhatra/finCare_FrontEnd
-2. cd group7_s21
+1. Clone the project using 'git clone https://github.com/kirtandudhatra/finCare_FrontEnd.git
+2. cd finCare_FrontEnd
 3. install required libraries using 'npm install'
 4. Run application using 'npm start'
 5. Application will be live on http://127.0.0.1:3000
